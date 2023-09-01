@@ -4,7 +4,7 @@
 - 👯 Good at Technical skills like Python and C programming languages
 - 🤔 I’m looking for an Oppurtunity to enhance my skills and help for indrustry devlopment
 - 💬 good at Data Analysis using python
-- 📫 How to reach : pavantejamacha@gmail.com
+- 📫 How to reach : pavantejam08@gmail.com
 -   Tools : Ms office, Tableu , Mysql
 -->
 
